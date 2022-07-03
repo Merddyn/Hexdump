@@ -12,7 +12,7 @@
 */
 
 /* Program Description: Displays the contents of a file in both hexadecimal and ASCII.
- * Author: Merddyn Sheeley	 EUID: rcs0215
+ * Author: Merddyn Sheeley
  * Creation Date: 01/16/2020
  * Revisions:
  * Date:			Modified by:
